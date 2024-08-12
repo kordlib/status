@@ -6,7 +6,7 @@ sites:
   - name: Maven Repository
     url: https://repo.kord.dev
   - name: Storage Bucket
-    url: https://snapshots.kord.dev/dev/kord/kord-bom/maven-metadata.xml
+    url: https://kord-snapshots.fra1.cdn.digitaloceanspaces.com
   - name: Codegen.kt Wiki
     url: https://codegen.kord.dev
   - name: Kord Dokka
