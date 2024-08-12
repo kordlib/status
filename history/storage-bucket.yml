@@ -1,7 +1,7 @@
 url: https://snapshots.kord.dev/dev/kord/kord-bom/maven-metadata.xml
-status: up
-code: 200
-responseTime: 3929
-lastUpdated: 2024-08-11T23:07:24.054Z
+status: down
+code: 530
+responseTime: 228
+lastUpdated: 2024-08-12T01:14:52.142Z
 startTime: 2024-07-29T18:31:25.146Z
 generator: Upptime <https://github.com/upptime/upptime>
