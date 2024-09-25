@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 543,
-    "timeDay": 462,
-    "timeWeek": 431,
+    "time": 545,
+    "timeDay": 638,
+    "timeWeek": 472,
     "timeMonth": 466,
-    "timeYear": 543,
+    "timeYear": 545,
     "dailyMinutesDown": {
       "2024-08-06": 46
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kord-snapshots.fra1.cdn.digitaloceanspaces.com.ico",
     "slug": "storage-bucket",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.04%",
-    "time": 260,
-    "timeDay": 106,
-    "timeWeek": 125,
-    "timeMonth": 173,
-    "timeYear": 260,
+    "uptimeYear": "99.05%",
+    "time": 261,
+    "timeDay": 297,
+    "timeWeek": 156,
+    "timeMonth": 180,
+    "timeYear": 261,
     "dailyMinutesDown": {
       "2024-08-12": 776,
       "2024-07-29": 6
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 134,
-    "timeWeek": 173,
-    "timeMonth": 176,
-    "timeYear": 175,
+    "time": 177,
+    "timeDay": 275,
+    "timeWeek": 191,
+    "timeMonth": 179,
+    "timeYear": 177,
     "dailyMinutesDown": {}
   },
   {
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 143,
-    "timeWeek": 140,
-    "timeMonth": 157,
-    "timeYear": 170,
+    "time": 171,
+    "timeDay": 217,
+    "timeWeek": 147,
+    "timeMonth": 158,
+    "timeYear": 171,
     "dailyMinutesDown": {}
   },
   {
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 158,
-    "timeDay": 137,
-    "timeWeek": 133,
-    "timeMonth": 154,
-    "timeYear": 158,
+    "time": 160,
+    "timeDay": 304,
+    "timeWeek": 160,
+    "timeMonth": 158,
+    "timeYear": 160,
     "dailyMinutesDown": {
       "2024-07-29": 6
     }
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 141,
-    "timeDay": 127,
-    "timeWeek": 139,
+    "time": 142,
+    "timeDay": 194,
+    "timeWeek": 149,
     "timeMonth": 141,
-    "timeYear": 141,
+    "timeYear": 142,
     "dailyMinutesDown": {
       "2024-07-29": 73
     }
