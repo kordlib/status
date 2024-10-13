@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 534,
-    "timeDay": 716,
-    "timeWeek": 495,
-    "timeMonth": 484,
-    "timeYear": 534,
+    "time": 533,
+    "timeDay": 442,
+    "timeWeek": 507,
+    "timeMonth": 487,
+    "timeYear": 533,
     "dailyMinutesDown": {
       "2024-08-06": 46
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kord-snapshots.fra1.cdn.digitaloceanspaces.com.ico",
     "slug": "storage-bucket",
     "status": "up",
-    "uptime": "99.27%",
+    "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.27%",
-    "time": 243,
-    "timeDay": 319,
-    "timeWeek": 181,
-    "timeMonth": 172,
-    "timeYear": 243,
+    "uptimeYear": "99.28%",
+    "time": 240,
+    "timeDay": 59,
+    "timeWeek": 152,
+    "timeMonth": 171,
+    "timeYear": 240,
     "dailyMinutesDown": {
       "2024-08-12": 776,
       "2024-07-29": 6
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 242,
-    "timeWeek": 166,
-    "timeMonth": 179,
+    "timeDay": 162,
+    "timeWeek": 173,
+    "timeMonth": 178,
     "timeYear": 175,
     "dailyMinutesDown": {}
   },
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 270,
-    "timeWeek": 194,
+    "time": 172,
+    "timeDay": 109,
+    "timeWeek": 162,
     "timeMonth": 168,
-    "timeYear": 173,
+    "timeYear": 172,
     "dailyMinutesDown": {}
   },
   {
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 155,
-    "timeDay": 242,
+    "time": 154,
+    "timeDay": 86,
     "timeWeek": 149,
-    "timeMonth": 144,
-    "timeYear": 155,
+    "timeMonth": 143,
+    "timeYear": 154,
     "dailyMinutesDown": {
       "2024-07-29": 6
     }
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 146,
-    "timeDay": 273,
-    "timeWeek": 167,
-    "timeMonth": 152,
-    "timeYear": 146,
+    "time": 147,
+    "timeDay": 234,
+    "timeWeek": 162,
+    "timeMonth": 156,
+    "timeYear": 147,
     "dailyMinutesDown": {
       "2024-07-29": 73
     }
