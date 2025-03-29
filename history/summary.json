@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 495,
-    "timeDay": 430,
-    "timeWeek": 429,
-    "timeMonth": 471,
-    "timeYear": 495,
+    "time": 496,
+    "timeDay": 603,
+    "timeWeek": 458,
+    "timeMonth": 475,
+    "timeYear": 496,
     "dailyMinutesDown": {
       "2024-10-22": 26,
       "2024-08-06": 46
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 182,
-    "timeDay": 260,
+    "timeDay": 63,
     "timeWeek": 226,
-    "timeMonth": 189,
+    "timeMonth": 185,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2024-11-29": 269,
@@ -54,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 184,
-    "timeDay": 126,
-    "timeWeek": 179,
-    "timeMonth": 187,
-    "timeYear": 184,
+    "time": 185,
+    "timeDay": 376,
+    "timeWeek": 212,
+    "timeMonth": 194,
+    "timeYear": 185,
     "dailyMinutesDown": {}
   },
   {
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 228,
-    "timeWeek": 186,
-    "timeMonth": 205,
-    "timeYear": 177,
+    "time": 178,
+    "timeDay": 402,
+    "timeWeek": 224,
+    "timeMonth": 212,
+    "timeYear": 178,
     "dailyMinutesDown": {}
   },
   {
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 220,
-    "timeWeek": 162,
-    "timeMonth": 153,
+    "timeDay": 202,
+    "timeWeek": 167,
+    "timeMonth": 155,
     "timeYear": 155,
     "dailyMinutesDown": {
       "2024-07-29": 6
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 149,
-    "timeDay": 146,
-    "timeWeek": 185,
-    "timeMonth": 164,
-    "timeYear": 149,
+    "time": 150,
+    "timeDay": 226,
+    "timeWeek": 189,
+    "timeMonth": 166,
+    "timeYear": 150,
     "dailyMinutesDown": {
       "2024-07-29": 73
     }
