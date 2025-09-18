@@ -4,9 +4,7 @@ repo: status # The name of this repository
 
 sites:
   - name: Maven Repository
-    url: https://repo.kord.dev
-  - name: Storage Bucket
-    url: https://kord-snapshots.fra1.cdn.digitaloceanspaces.com
+    url: https://snapshots.kord.dev/healthz
   - name: Codegen.kt Wiki
     url: https://codegen.kord.dev
   - name: Kord Dokka
