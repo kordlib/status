@@ -1,7 +1,7 @@
 url: https://snapshots.kord.dev/healthz
-status: down
-code: 403
-responseTime: 881
-lastUpdated: 2025-11-16T23:54:16.438Z
+status: up
+code: 200
+responseTime: 1125
+lastUpdated: 2025-11-17T01:40:43.774Z
 startTime: 2024-07-29T18:31:24.111Z
 generator: Upptime <https://github.com/upptime/upptime>
