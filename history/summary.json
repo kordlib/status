@@ -73,18 +73,20 @@
     "url": "https://dokka.kord.dev",
     "icon": "https://icons.duckduckgo.com/ip3/dokka.kord.dev.ico",
     "slug": "kord-dokka",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 184,
-    "timeWeek": 157,
-    "timeMonth": 202,
+    "timeDay": 155,
+    "timeWeek": 153,
+    "timeMonth": 199,
     "timeYear": 194,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Cache library Dokka",
