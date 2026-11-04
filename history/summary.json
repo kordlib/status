@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/snapshots.kord.dev.ico",
     "slug": "maven-repository",
     "status": "up",
-    "uptime": "97.00%",
+    "uptime": "97.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.37%",
-    "time": 1020,
-    "timeDay": 7164,
-    "timeWeek": 2163,
-    "timeMonth": 1510,
-    "timeYear": 1133,
+    "time": 1022,
+    "timeDay": 1509,
+    "timeWeek": 2137,
+    "timeMonth": 1515,
+    "timeYear": 1134,
     "dailyMinutesDown": {
       "2025-11-08": 223,
       "2025-11-12": 217,
@@ -46,10 +46,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 224,
-    "timeDay": 229,
-    "timeWeek": 238,
+    "timeDay": 294,
+    "timeWeek": 245,
     "timeMonth": 240,
-    "timeYear": 224,
+    "timeYear": 225,
     "dailyMinutesDown": {
       "2025-11-18": 140
     }
@@ -66,10 +66,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 203,
-    "timeDay": 195,
-    "timeWeek": 240,
-    "timeMonth": 280,
-    "timeYear": 200,
+    "timeDay": 156,
+    "timeWeek": 225,
+    "timeMonth": 279,
+    "timeYear": 201,
     "dailyMinutesDown": {
       "2025-11-18": 174
     }
@@ -86,9 +86,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 185,
-    "timeDay": 186,
-    "timeWeek": 191,
-    "timeMonth": 203,
+    "timeDay": 98,
+    "timeWeek": 178,
+    "timeMonth": 199,
     "timeYear": 188,
     "dailyMinutesDown": {
       "2025-12-26": 30
@@ -106,9 +106,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
-    "timeDay": 186,
-    "timeWeek": 189,
-    "timeMonth": 201,
+    "timeDay": 85,
+    "timeWeek": 180,
+    "timeMonth": 198,
     "timeYear": 175,
     "dailyMinutesDown": {}
   }
